@@ -1,4 +1,4 @@
-#Words for hangman game
+# List of words for the Hangman Game
 
 words = [
     "computer", "guitar", "mountain", "sunshine", "jungle", "science", "adventure",
